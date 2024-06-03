@@ -3,7 +3,7 @@
 ## 📚 Education
 - **B.Tech. Major in Electronics and Communication Engineering** \
   Indian Institute of Technology, Guwahati \
-  CGPA: 7.61 (Current) | 2021-Present
+  CGPA: 7.95 (Current) | 2021-Present
 
 - **B.Tech. Minor in Computer Science and Engineering** \
   Indian Institute of Technology, Guwahati \
@@ -36,14 +36,14 @@
 - Electronics and Communication: Digital Systems, Signals and Systems
 
 ## 🏅 Achievements
-- JEE Advanced: AIR 2144 out of 250,000 candidates (2021)
-- JEE Mains: AIR 8421 out of 1,000,000 candidates (2021)
+- JEE Advanced: **AIR** **2144** out of 250,000 candidates (2021)
+- JEE Mains: **AIR** **8421** out of 1,000,000 candidates (2021)
 - Branch Change: Awarded a Branch change from EEE to ECE on CPI Basis (2022)
 
 ## 📫 How to reach me
 - Email: [s.lakshit@iitg.ac.in](mailto:s.lakshit@iitg.ac.in) | [lakshitsethia@gmail.com](mailto:lakshitsethia@gmail.com)
 - LinkedIn: [lakshit-sethia](https://linkedin.com/in/lakshit-sethia)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- GitHub: [yoyobuzz](https://github.com/yoyobuzz)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-blue)
